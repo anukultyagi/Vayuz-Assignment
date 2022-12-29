@@ -1,0 +1,72 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "arial", sans-serif;
+}
+
+.size {
+    max-width: 745px;
+    margin: auto;
+}
+
+.text-size {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.btn-color {
+    background-color: rgb(137, 121, 241);
+    color: white;
+}
+
+.desc,
+li {
+    color: grey;
+}
+
+i {
+    color: black;
+    width: 20px;
+}
+
+
+
+.search-section {
+    background-color: rgb(131, 122, 243);
+    color: white;
+}
+
+.search-section button {
+    color: rgb(131, 122, 243);
+}
+
+.pricing-table {
+    background-color: rgba(224, 239, 255, 0.533);
+}
+
+.pricing-table p {
+    max-width: 600px;
+    margin: auto;
+    color: grey;
+}
+
+.col:nth-child(2) {
+    background-color: white;
+}
+
+
+
+footer {
+    background-color: navy;
+
+}
+
+footer p {
+    max-width: 490px;
+    margin: auto;
+    color: white;
+}
